@@ -11,9 +11,9 @@
 #Division
 480 / 6
 
-# Trignometry
+# Trigonometry
 sin (45)
-
+cos(90)
 log (100)
 
 #Powers
